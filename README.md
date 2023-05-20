@@ -1,0 +1,1 @@
+# projeto-acontecimentos-frontend-react-nextjs-tailwindCSS-TypeScript
