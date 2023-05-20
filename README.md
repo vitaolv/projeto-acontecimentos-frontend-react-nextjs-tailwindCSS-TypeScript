@@ -1,1 +1,3 @@
-# projeto-acontecimentos-frontend-react-nextjs-tailwindCSS-TypeScript
+# Projeto de frontend: acontecimentos mais marcantes
+
+O projeto foi desenvolvido com react, nextJS, tailwindCSS e TypeScript.
