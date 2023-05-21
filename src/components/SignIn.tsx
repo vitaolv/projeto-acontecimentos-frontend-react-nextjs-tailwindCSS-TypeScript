@@ -1,3 +1,4 @@
+require('dotenv').config();
 import { User } from "lucide-react"
 
 export function SignIn () {    

@@ -9,7 +9,7 @@ export default function Home() {
   const IsAuthenticate = cookies().has('token')
   return (
   <div className=" bg-zinc-900 text-zinc-200">
-    <main className="grid min-h-screen grid-cols-2">
+    <main className="grid min-h-screen grid-cols-2 bg-[url(../assets/bg-stars.svg)]">
       
       {/* Left */}
       <div className="relative flex flex-col items-start overflow-hidden
